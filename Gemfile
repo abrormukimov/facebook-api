@@ -74,3 +74,4 @@ end
 gem 'devise'
 gem 'omniauth-facebook'
 gem 'figaro'
+gem 'omniauth-rails_csrf_protection', '~> 1.0', '>= 1.0.1'
